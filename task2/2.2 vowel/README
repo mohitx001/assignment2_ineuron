@@ -1,0 +1,16 @@
+1.problem:
+
+Write a Python function which takes a character (i.e. a string of length 1) and returns True if it is
+a vowel, False otherwise.
+
+
+2.output
+
+"C:\New folder\python38\python.exe" C:/Users/mjx/PycharmProjects/mjx/ineuron/assign2/task2/2.2/vowel.py
+Enter character: o
+o is am vowel.
+
+Process finished with exit code 0
+
+3.output attached in screenshot
+

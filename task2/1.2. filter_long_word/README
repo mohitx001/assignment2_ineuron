@@ -1,0 +1,20 @@
+1.problem:
+
+1.2 Write a function filter_long_words() that takes a list of words and an integer n and returns
+the list of words that are longer than n.
+
+2.output
+
+
+
+1.2 Write a function filter_long_words() that takes a list of words and an integer n and returns
+the list of words that are longer than n.
+
+['Sunil', 'mohitj', 'Humanshu']
+
+
+
+Process finished with exit code 0
+
+
+3,output attached in screen shot
